@@ -20,10 +20,10 @@ On cmd:
 pip install selenium webdriver-manager requests
 ```
 
-Create a folder and insert ```main.py``` inside.
+Create a folder anywhere and insert ```main.py``` inside.
 
 Create a file named ```urls.txt``` inside the same directory.
 
 Edit ```urls.txt``` and paste any MangaDex chapter URL per line.
 
-Run the script.
+Run the script (open folder in terminal, and type ```python main.py```)
